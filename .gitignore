@@ -1,0 +1,12 @@
+*.ipr
+*.iws
+*.classpath
+*.project
+*.settings/
+*.iml
+target/
+logs/
+*.git
+*.idea/
+*.DS_Store
+swagger.json
